@@ -1,0 +1,6 @@
+FTD2XX.dll proxy.
+
+Place in directory of executable using ftd2xx.dll, rename original ftd2xx.dll to ftd2xx1.dll.
+When run, the proxy will write a debug.txt file in the current directory.
+
+Licensed with the BSD license.

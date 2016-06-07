@@ -80,3 +80,4 @@ EXPORTS
         FT_WaitOnMask = _I_FT_WaitOnMask @25
         FT_Write = _I_FT_Write @4
         FT_WriteEE = _I_FT_WriteEE @36
+        FT_GetQueueStatusEx = _I_FT_GetQueueStatusEx @84
